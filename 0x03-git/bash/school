@@ -1,3 +1,4 @@
 Type or paste: 
 #!/bin/bash
-echo "School"
+echo "School
+* delete echo "School" and replace it with, echo "The school is open!" "
